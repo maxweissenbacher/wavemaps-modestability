@@ -1,1 +1,1 @@
-Please see Appendix A.3 of the thesis for an overview of the information that is contained here.
+This repository contains several explicit formulas and results of certain calculations related to my master's thesis. Please see Appendix A.3 of the thesis for an overview of the information that is contained here.
